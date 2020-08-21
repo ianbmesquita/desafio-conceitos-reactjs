@@ -1,8 +1,16 @@
+<img alt="GoStack" src=".github/banner-gostack.png" />
+
 <h1 align="center">
     Desafio Conceitos do ReactJS
 </h1>
 
 ## :rocket: Tecnologias
+
+<p float="left">
+  <img alt="JavaScript" src=".github/javascript.svg"/>
+  <img alt="ReactJS" src=".github/reactjs.svg" hspace="10"/>
+  <img alt="NodeJS" src=".github/node.svg"/>
+</p>
 
 -  [JavaScript](https://www.w3schools.com/js/)
 -  [ReactJS](https://pt-br.reactjs.org/)
@@ -58,7 +66,7 @@
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
